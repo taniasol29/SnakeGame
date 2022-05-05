@@ -1,2 +1,2 @@
-# GroovyArche2
-Revenge of the Tiger
+# SnakeGame
+Revenge of the snake
